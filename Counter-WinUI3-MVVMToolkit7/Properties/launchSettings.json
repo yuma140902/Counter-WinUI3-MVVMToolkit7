@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Counter-WinUI3-MVVMToolkit7 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Counter-WinUI3-MVVMToolkit7 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
